@@ -103,6 +103,11 @@ Dashboard includes:
 
 ---
 
+## 📷 Dashboard Preview
+
+![IPL Analysis](Images_Used/IPL_Analysis.png)
+
+---
 
 ## 📈 Skills Demonstrated
 
