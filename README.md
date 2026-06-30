@@ -45,6 +45,8 @@ The IPL generates a massive amount of match data every season. This project answ
 
 - IPL Matches Dataset
 - Ball-by-Ball Dataset
+- Teams Data
+- IPL Matches Data
 
 ---
 
@@ -125,12 +127,6 @@ Dashboard includes:
 ✔ Dashboard Design
 
 ---
-
-
-
----
-
-## 📷 Dashboard Preview
 
 
 
